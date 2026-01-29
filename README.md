@@ -1,3 +1,13 @@
+# US-China Official Diplomatic and Defense Corpus
+
+This dataset provides a large-scale, systematically collected corpus of official diplomatic texts released by the governments of China and the United States between January 2021 and December 2025.
+
+It is designed to support empirical research in international relations, political economy, strategic communication, computational social science, and natural language processing.
+
+The corpus consists exclusively of publicly available, authoritative government communications, covering diplomacy, security, foreign policy, and international cooperation.
+
+Dataset Link: https://zenodo.org/records/18383270
+
 # Dataset Overview
 
 ## English
